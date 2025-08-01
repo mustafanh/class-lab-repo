@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Mustafa Nawfal  
+- Certification: Information and Communication  
 
 ## Instructions
 Please replace the placeholders with your details:
